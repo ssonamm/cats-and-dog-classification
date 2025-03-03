@@ -1,0 +1,15 @@
+# Python
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+media/
+staticfiles/
+
+# Virtual environment
+venv/
